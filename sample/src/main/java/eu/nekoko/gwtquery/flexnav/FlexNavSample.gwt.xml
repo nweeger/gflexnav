@@ -1,0 +1,5 @@
+<module rename-to='FlexNav'>
+    <inherits name='eu.nekoko.gwtquery.flexnav.Flexnav'/>
+    <entry-point class='eu.nekoko.gwtquery.flexnav.client.FlexNavSample'/>
+</module>
+    
